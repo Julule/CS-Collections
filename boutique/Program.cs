@@ -26,7 +26,7 @@ Dictionary<string, int> stockj = [];
 
 
 //- Initialisez le dictionnaire avec de l'équipement (ex: "Arc": 5, "Hache": 2, "Dague": 10, ...).
-stock.Add("épée", 250);
+stock.Add("épée", 20);
 stock.Add("jus de pomme", 23);
 stock.Add("stiletos", 44);
 
@@ -39,7 +39,12 @@ while (gameon)
     Console.WriteLine($"Que veux-tu acheter ?");
     string request = Console.ReadLine();
 
-        if (stock.ContainsKey(request) == false)
+        if (portefeuille == 0)
+        {
+        Console.WriteLine("Pauvre traîne-savattes, t'as plus un rond, Ciao !");
+        gameon = false;
+        }
+        else if (stock.ContainsKey(request) == false)
         {
             Console.WriteLine($"nous n'avons plus de {request} en stock..");
         }
@@ -50,18 +55,13 @@ while (gameon)
             stock.Remove(request);
             Console.WriteLine($"Tu as acheté {request}");
             Console.WriteLine($"Tu dispose de {portefeuille} pièces");
-            if (portefeuille == 0)
-            {
-            Console.WriteLine("Pauvre traîne-savattes, t'as plus un rond, Ciao !");
-            gameon = false;
-            }
         }
         else if (portefeuille < stock[request])
         {
             Console.WriteLine($"Ahah. Drôle. Je ne pense pas que tu sois mon genre de clientèle.. Salut !");
         }
 
-        //      3. Voler un équipement : Le joueur peut tenter de volé un équipement (10% de succes, en cas d'echec -> Game Over).
+        //      3. Voler un équipement : Le joueur peut tenter de voler un équipement (10% de succès, en cas d'echec -> Game Over).
 
     Console.WriteLine($"Tentative de vol sur :");
     string vol = Console.ReadLine();
