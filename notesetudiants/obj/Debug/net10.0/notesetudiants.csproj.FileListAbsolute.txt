@@ -1,0 +1,14 @@
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\bin\Debug\net10.0\notesetudiants.exe
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\bin\Debug\net10.0\notesetudiants.deps.json
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\bin\Debug\net10.0\notesetudiants.runtimeconfig.json
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\bin\Debug\net10.0\notesetudiants.dll
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\bin\Debug\net10.0\notesetudiants.pdb
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\obj\Debug\net10.0\notesetudiants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\obj\Debug\net10.0\notesetudiants.AssemblyInfoInputs.cache
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\obj\Debug\net10.0\notesetudiants.AssemblyInfo.cs
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\obj\Debug\net10.0\notesetudiants.csproj.CoreCompileInputs.cache
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\obj\Debug\net10.0\notesetudiants.dll
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\obj\Debug\net10.0\refint\notesetudiants.dll
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\obj\Debug\net10.0\notesetudiants.pdb
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\obj\Debug\net10.0\notesetudiants.genruntimeconfig.cache
+C:\Users\j.patard\Documents\C# local\Test1\notesetudiants\obj\Debug\net10.0\ref\notesetudiants.dll

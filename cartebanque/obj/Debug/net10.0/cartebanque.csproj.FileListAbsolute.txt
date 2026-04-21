@@ -1,0 +1,14 @@
+C:\Users\j.patard\Documents\Test1\cartebanque\bin\Debug\net10.0\cartebanque.exe
+C:\Users\j.patard\Documents\Test1\cartebanque\bin\Debug\net10.0\cartebanque.deps.json
+C:\Users\j.patard\Documents\Test1\cartebanque\bin\Debug\net10.0\cartebanque.runtimeconfig.json
+C:\Users\j.patard\Documents\Test1\cartebanque\bin\Debug\net10.0\cartebanque.dll
+C:\Users\j.patard\Documents\Test1\cartebanque\bin\Debug\net10.0\cartebanque.pdb
+C:\Users\j.patard\Documents\Test1\cartebanque\obj\Debug\net10.0\cartebanque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.patard\Documents\Test1\cartebanque\obj\Debug\net10.0\cartebanque.AssemblyInfoInputs.cache
+C:\Users\j.patard\Documents\Test1\cartebanque\obj\Debug\net10.0\cartebanque.AssemblyInfo.cs
+C:\Users\j.patard\Documents\Test1\cartebanque\obj\Debug\net10.0\cartebanque.csproj.CoreCompileInputs.cache
+C:\Users\j.patard\Documents\Test1\cartebanque\obj\Debug\net10.0\cartebanque.dll
+C:\Users\j.patard\Documents\Test1\cartebanque\obj\Debug\net10.0\refint\cartebanque.dll
+C:\Users\j.patard\Documents\Test1\cartebanque\obj\Debug\net10.0\cartebanque.pdb
+C:\Users\j.patard\Documents\Test1\cartebanque\obj\Debug\net10.0\cartebanque.genruntimeconfig.cache
+C:\Users\j.patard\Documents\Test1\cartebanque\obj\Debug\net10.0\ref\cartebanque.dll

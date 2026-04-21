@@ -1,0 +1,14 @@
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\bin\Debug\net10.0\file d'attente.exe
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\bin\Debug\net10.0\file d'attente.deps.json
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\bin\Debug\net10.0\file d'attente.runtimeconfig.json
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\bin\Debug\net10.0\file d'attente.dll
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\bin\Debug\net10.0\file d'attente.pdb
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\obj\Debug\net10.0\file d'attente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\obj\Debug\net10.0\file d'attente.AssemblyInfoInputs.cache
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\obj\Debug\net10.0\file d'attente.AssemblyInfo.cs
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\obj\Debug\net10.0\file d'attente.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\obj\Debug\net10.0\file d'attente.dll
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\obj\Debug\net10.0\refint\file d'attente.dll
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\obj\Debug\net10.0\file d'attente.pdb
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\obj\Debug\net10.0\file d'attente.genruntimeconfig.cache
+C:\Users\User\Documents\interface3\c#\Lokal\Test1\file d'attente\obj\Debug\net10.0\ref\file d'attente.dll

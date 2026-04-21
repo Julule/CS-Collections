@@ -1,0 +1,14 @@
+C:\Users\j.patard\Documents\Test1\pairimpair\bin\Debug\net10.0\pairimpair.exe
+C:\Users\j.patard\Documents\Test1\pairimpair\bin\Debug\net10.0\pairimpair.deps.json
+C:\Users\j.patard\Documents\Test1\pairimpair\bin\Debug\net10.0\pairimpair.runtimeconfig.json
+C:\Users\j.patard\Documents\Test1\pairimpair\bin\Debug\net10.0\pairimpair.dll
+C:\Users\j.patard\Documents\Test1\pairimpair\bin\Debug\net10.0\pairimpair.pdb
+C:\Users\j.patard\Documents\Test1\pairimpair\obj\Debug\net10.0\pairimpair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.patard\Documents\Test1\pairimpair\obj\Debug\net10.0\pairimpair.AssemblyInfoInputs.cache
+C:\Users\j.patard\Documents\Test1\pairimpair\obj\Debug\net10.0\pairimpair.AssemblyInfo.cs
+C:\Users\j.patard\Documents\Test1\pairimpair\obj\Debug\net10.0\pairimpair.csproj.CoreCompileInputs.cache
+C:\Users\j.patard\Documents\Test1\pairimpair\obj\Debug\net10.0\pairimpair.dll
+C:\Users\j.patard\Documents\Test1\pairimpair\obj\Debug\net10.0\refint\pairimpair.dll
+C:\Users\j.patard\Documents\Test1\pairimpair\obj\Debug\net10.0\pairimpair.pdb
+C:\Users\j.patard\Documents\Test1\pairimpair\obj\Debug\net10.0\pairimpair.genruntimeconfig.cache
+C:\Users\j.patard\Documents\Test1\pairimpair\obj\Debug\net10.0\ref\pairimpair.dll

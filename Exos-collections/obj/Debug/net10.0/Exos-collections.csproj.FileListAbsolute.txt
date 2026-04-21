@@ -1,0 +1,28 @@
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.AssemblyInfoInputs.cache
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.AssemblyInfo.cs
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.csproj.CoreCompileInputs.cache
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\bin\Debug\net10.0\Exos-collections.exe
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\bin\Debug\net10.0\Exos-collections.deps.json
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\bin\Debug\net10.0\Exos-collections.runtimeconfig.json
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\bin\Debug\net10.0\Exos-collections.dll
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\bin\Debug\net10.0\Exos-collections.pdb
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.dll
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\obj\Debug\net10.0\refint\Exos-collections.dll
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.pdb
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.genruntimeconfig.cache
+C:\Users\j.patard\Documents\C# local\Test1\Exos-collections\obj\Debug\net10.0\ref\Exos-collections.dll
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\bin\Debug\net10.0\Exos-collections.exe
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\bin\Debug\net10.0\Exos-collections.deps.json
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\bin\Debug\net10.0\Exos-collections.runtimeconfig.json
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\bin\Debug\net10.0\Exos-collections.dll
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\bin\Debug\net10.0\Exos-collections.pdb
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.AssemblyInfo.cs
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.dll
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\obj\Debug\net10.0\refint\Exos-collections.dll
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.pdb
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\obj\Debug\net10.0\Exos-collections.genruntimeconfig.cache
+C:\Users\User\OneDrive - Interface3\Documents\C#\C# local\Test1\Exos-collections\obj\Debug\net10.0\ref\Exos-collections.dll

@@ -1,0 +1,14 @@
+C:\Users\j.patard\Documents\Test1\boucles\obj\Debug\net10.0\boucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.patard\Documents\Test1\boucles\obj\Debug\net10.0\boucles.AssemblyInfoInputs.cache
+C:\Users\j.patard\Documents\Test1\boucles\obj\Debug\net10.0\boucles.AssemblyInfo.cs
+C:\Users\j.patard\Documents\Test1\boucles\obj\Debug\net10.0\boucles.csproj.CoreCompileInputs.cache
+C:\Users\j.patard\Documents\Test1\boucles\bin\Debug\net10.0\boucles.exe
+C:\Users\j.patard\Documents\Test1\boucles\bin\Debug\net10.0\boucles.deps.json
+C:\Users\j.patard\Documents\Test1\boucles\bin\Debug\net10.0\boucles.runtimeconfig.json
+C:\Users\j.patard\Documents\Test1\boucles\bin\Debug\net10.0\boucles.dll
+C:\Users\j.patard\Documents\Test1\boucles\bin\Debug\net10.0\boucles.pdb
+C:\Users\j.patard\Documents\Test1\boucles\obj\Debug\net10.0\boucles.dll
+C:\Users\j.patard\Documents\Test1\boucles\obj\Debug\net10.0\refint\boucles.dll
+C:\Users\j.patard\Documents\Test1\boucles\obj\Debug\net10.0\boucles.pdb
+C:\Users\j.patard\Documents\Test1\boucles\obj\Debug\net10.0\boucles.genruntimeconfig.cache
+C:\Users\j.patard\Documents\Test1\boucles\obj\Debug\net10.0\ref\boucles.dll
