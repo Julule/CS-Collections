@@ -26,9 +26,11 @@ Dictionary<string, int> stockj = [];
 
 
 //- Initialisez le dictionnaire avec de l'équipement (ex: "Arc": 5, "Hache": 2, "Dague": 10, ...).
-stock.Add("épée", 20);
+stock.Add("épée", 250);
 stock.Add("jus de pomme", 23);
 stock.Add("stiletos", 44);
+stock.Add("crayola", 70);
+stock.Add("plug", 65);
 
 while (gameon)
 {
@@ -39,12 +41,7 @@ while (gameon)
     Console.WriteLine($"Que veux-tu acheter ?");
     string request = Console.ReadLine();
 
-        if (portefeuille == 0)
-        {
-        Console.WriteLine("Pauvre traîne-savattes, t'as plus un rond, Ciao !");
-        gameon = false;
-        }
-        else if (stock.ContainsKey(request) == false)
+        if (stock.ContainsKey(request) == false)
         {
             Console.WriteLine($"nous n'avons plus de {request} en stock..");
         }
@@ -61,18 +58,24 @@ while (gameon)
             Console.WriteLine($"Ahah. Drôle. Je ne pense pas que tu sois mon genre de clientèle.. Salut !");
         }
 
-        //      3. Voler un équipement : Le joueur peut tenter de voler un équipement (10% de succès, en cas d'echec -> Game Over).
+
+    //      3. Voler un équipement : Le joueur peut tenter de voler un équipement (10% de succès, en cas d'echec -> Game Over).
 
     Console.WriteLine($"Tentative de vol sur :");
     string vol = Console.ReadLine();
 
     var rand = new Random();
     int succes = rand.Next(1, 10);
-        if (succes == 1)
+
+        if (stock.ContainsKey(request) == false)
         {
+            Console.WriteLine($"On ne peux pas voler ce qui n'est même pas là..");
+        }
+        if (succes < 10)
+        {
+            stockj.Add(vol, stock[vol]);
             stock.Remove(vol);
             Console.WriteLine($"Tu as réussi à voler {vol}");
-            stockj.Add(vol, stock[vol]);
             Console.WriteLine($"Ton portefeuille est toujours de {portefeuille} pièces");
         }
         else
@@ -85,7 +88,7 @@ while (gameon)
         
 }// while(gameon)
 
-if (!gameon)
+if (!gameon || portefeuille <= 0)
 {
     Console.WriteLine($"Fin du jeu, mais garde la pêche, ton stock est de {String.Join("", stockj)}");
 }
