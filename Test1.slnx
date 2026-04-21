@@ -1,6 +1,11 @@
 <Solution>
   <Project Path="Bestiaire/Bestiaire.csproj" Id="ce1f10b1-e16e-45e3-8dcf-2d4e88e848d4" />
+  <Project Path="boucles/boucles.csproj" />
+  <Project Path="boutique/boutique.csproj" />
+  <Project Path="cartebanque/cartebanque.csproj" />
   <Project Path="Exos-collections/Exos-collections.csproj" Id="f9b5e2d5-a191-4ab0-84f4-c8d607ae05f7" />
+  <Project Path="Exos1/Exos1.csproj" />
+  <Project Path="exosboucles/exosboucles.csproj" />
   <Project Path="fantomecaca/fantomecaca.csproj" />
   <Project Path="file d'attente/file d'attente.csproj" Id="e08b6b67-11bf-4302-af29-96e834b7fa1b" />
   <Project Path="Inventaire/Inventaire.csproj" Id="2760895d-57d2-4eed-a763-bd5c42b1decc" />
@@ -8,6 +13,8 @@
   <Project Path="notesetudiants/notesetudiants.csproj" Id="fd59a20f-767a-43a7-95da-8e22797b97bd" />
   <Project Path="pairimpair/pairimpair.csproj" />
   <Project Path="scoring/scoring.csproj" Id="10988fe9-a60e-4132-9e38-b79517a76040" />
+  <Project Path="Simulateur de Combat/Simulateur de Combat.csproj" />
   <Project Path="tableau/tableau.csproj" Id="e91ca695-e71c-4fdf-8df8-c4bf4ded9bda" />
+  <Project Path="test/test.csproj" />
   <Project Path="Voyelles/Voyelles.csproj" Id="3f5ba9e3-e500-4e59-92e0-bf4811ff29c2" />
 </Solution>
